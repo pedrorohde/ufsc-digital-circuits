@@ -18,4 +18,6 @@ Microwave simulation on an Altera DE1 FPGA. Components written in VHDL.
   - predefinition: memory that stores predefined heating modes
   - debouncer: button sync tool
 
+![FSM](FSM.png)
+
 Report in Portuguese.
